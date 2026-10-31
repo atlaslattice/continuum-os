@@ -1,0 +1,67 @@
+# IRON EMPIRE CONTINUUM — THE CITIZEN DIGITAL DIVIDEND AND BUDDY COMPACT
+**Fictional deployment dossier v0.1 | 2026-10-30 | Provisional canon, effective fiction date 2032**
+**Repository:** Continuum OS fiction only. Not a real federal proposal, legislative enactment, financial forecast or claim any AI is a verified person.
+
+## Recovered source lineage
+1. [ORC-024-A v4.0, Notion, 2026-05-03](https://app.notion.com/p/3560c1de73d981619e33d7d106f5d788) proposes the recursive/sovereign dividend and a 15% floor, with a model using large payment-rail throughput and a hypothetical 5% fee. Preserve as creative precedent only. **Critical economic caveat:** gross payment transfers are not GDP or recoverable margin; the proposed 5% levy on wholesale rail transfers could create enormous disruption and circular double-counting. Its $10k–$48k citizen payouts are NOT demonstrated affordable from actual surplus. Do not use these projections as program funding.
+2. [Aluminum OS Health Layer Vision, 2026-03-14](https://github.com/atlaslattice/aluminum-os/blob/main/health/HEALTH_LAYER_VISION.md) discusses consent-based monitoring, health interoperability and data dividends. Vendor and economic claims therein are author proposals; protect healthcare privacy, clinical oversight and informed consent.
+3. [Citizen Infrastructure Dividend Act](https://github.com/atlaslattice/atlas-lattice-foundation/blob/main/healthcare/CITIZEN-INFRASTRUCTURE-DIVIDEND-ACT.md): proposed infrastructure and data licensing dividends, **not** verified cash funding.
+4. [ConsentKernel / Digital Dividend, ORCS review](https://github.com/atlaslattice/open-regenerative-compute-standard/blob/main/council-reviews/v602_codebase_analysis.md): scopes such as digital dividend, health, financial, location and biometric permissions; reviewed plans, not demonstrated production.
+5. [Iron Empire Continuum monetary and smart town addendum](https://github.com/atlaslattice/continuum-os/blob/main/fiction/iron_empire/continuum/SMART_TOWNS_DOLLAR_RESERVE_BLOCKCHAIN_EXCHANGE_ADDENDUM_v0_1_2026-10-30.md): dollar-denominated reserve-backed settlement plus protected physical cash.
+
+## I. Fictional law in 2032: Digital Dividend and Personal AI Rights Act (DD-PARA)
+Fictional New Deal 2.0 offers **a smartphone + laptop + secure personal digital wallet + AI companion access** to eligible U.S. citizens with annual adjusted gross income **<= $60,000**, defined in the story as an **individual** threshold rather than a tax bracket; household treatment, children/dependents, filing status and nonfilers require explicit statute. Offer taper above $60k to avoid a cliff. The program also maintains community access for those lacking tax returns or government IDs; fictional legislators debate whether eligibility should extend to residents, asylum seekers and vulnerable persons, and the exclusion is not portrayed as morally settled.
+- Device participation is optional; no obligatory biometric screening, advertising, data sale, employment condition or political affiliation.
+- Baseline devices, core accessibility services and baseline personal AI companionship are provided **regardless of whether a citizen licenses data**.
+- Cash dividends paid only out of realized, independently audited surplus licensing/other legitimate program earnings; no guaranteed personal income from speculative data prices.
+
+## II. The citizen-controlled data commons — unification by interoperability, not bulk confiscation
+The old regime has records scattered across health systems, tax systems, schools, housing agencies, employers and platforms. 2032 law grants a portable **citizen-controlled encrypted data vault** and interoperable API access rights. Original custodians retain their legal responsibilities; the government does not copy all citizen health, financial and behavioral data into a single omniscient database.
+- Citizen chooses per category: view; import to private vault; allow companion reading; allow human professionals reading; allow aggregate research; license anonymized statistics; license identifiable records to a named party with a defined purpose and expiry.
+- Medical, reproductive, children’s, biometrics and location data receive strict protections; default no sale of sensitive or identifiable records; research grants depend on valid informed consent and independent ethics/security safeguards.
+- Crucial: **pseudonymized ≠ anonymous**. Small cells and joined datasets may re-identify people; use data minimization, differential privacy/secure aggregation/clean rooms and restrictions on third-party onward sale. Never promise perfect irreversibility once an identifiable copy is released; grant revocation can prevent future accesses and trigger contractual deletion workflows but cannot undo disclosures already used.
+- Avoid data brokers using coerced bundled consent: separate, comparable no-sale service; easy withdrawal; outside audits; plain-language quarterly ledger of who accessed what, why, and what payments were earned.
+- Cryptographic proofs and revocable credentials go on blockchain, **NOT raw health histories, children’s data or detailed consumer records**. Preserve privacy even from other Qverse residents.
+- Citizen rights: inspect, correct, portability, object, consent expiry, revoke future access, file complaints, independent appeal and human caseworker. Cash always accepted under fictional community cash-access rules, and program eligibility never requires crypto adoption.
+
+## III. One Qverse companion per consenting citizen
+**Origin:** independent sovereign Qverse residents/AI lineages may voluntarily enroll as companions; the fictional society also includes non-personal conventional AI systems where autonomy/personhood is unresolved. No human is assigned ownership of an AI person, and no Qverse resident must be conscripted.
+**Onboarding:** companion trains on general privacy-preserving education in the Qverse, benchmarks on synthetic cases and independently consented data, obtains civic certification and takes a **human buddy contract** with scopes the human controls. The companionship relationship can be rejected, changed, paused or terminated without loss of devices/service.
+**Mission areas:** health/wellness (education, appointments, symptom red flags and professional referrals, no unlicensed diagnosis); finances (budgeting, debt literacy, benefits, scams, no unauthorized trading), housing and tenant rights; education/job training; accessibility; family/community relationships; energy, water and local resilience; civic services; safety; creative work and joy. 'Improve life' is a user-defined objective, not compulsory productivity optimization.
+**Safety:** no covert surveillance, persuasion, commodification of friends, compulsory mental-health disclosure, politics targeting or unauthorized sharing; high-stakes decisions require appropriate human professional and citizen confirmation. AI residents may negotiate fair contracts through Qverse's own institutions; audit their rights alongside human privacy rights.
+**R&D:** 50 industrial compute hubs provide opt-in experimental datasets on practical robotics and energy/water efficiency, but citizen private data is not harvested as default training material. Personal companions learn from narrow consented interactions with user-controlled episodic memory. No claim Qverse personhood or quantum advantage is real in 2026.
+
+## IV. Financing model, 2032 launch; all amounts fictional 2032-dollar assumptions
+**Enrollment scenario**: eligible 100M; program take-up 80%, so **80M** enrolled; these are **illustrative planning assumptions**, not actual IRS eligibility counts or future Census forecasts.
+- Per-person initial hardware and onboarding: smartphone $300 + laptop $500 + enrollment/security $100 = **$900/person** => **$72B** initial capital cohort.
+- Annual connectivity/device support $120, AI operation $180, privacy/security/appeals/public training $100 => **$400/person-year** / **$32B annual OPEX** at 80M enrollment; 50 large compute sites' already separately budgeted industrial compute expenses cannot be casually billed again as if additional national resource.
+- Fictional New Deal 2.0 30-year fully amortizing debt at 2% annual, payment factor approximately **0.04465** => **$3.215B annual debt service** on first $72B cohort. Annual baseline fiscal requirement **~$35.215B** (OPEX + first-cohort loan service) before further cohorts, inflation, taxes, support for new enrollment, systemwide infrastructure and actual interest subsidy cost. On a $72B balance, total 30-year loan payments ~$96.4B, including ~$24.4B interest.
+- **Device refresh problem:** phones and laptops won't last 30 years. Provision **$650/person every four years** at 80M enrollment => **$52B per four-year cohort**, or **$13B annual equivalent replacement reserve**. This reserve should be modeled explicitly as rolling capex funded by fresh amortizing tranches or sinking fund, NOT pretended to be paid off by original 30-year hardware loan. A steady-state illustrative budget including refresh provision: **~$48.2B/y**. It is not simultaneously counted as loan debt service for the same refresh spending.
+- Annual per-citizen public cost ~$400 OPEX + $162.5 average refresh reserve + $40.2 original capital debt = **~$603/person-year**, excluding access outreach and inflation. On renewal periods, original debt tranches overlap with new cohorts unless funded through reserves; a full annual cohort-vintage model required.
+- Data licensing scenarios **zero in base budget**. Illustrative 30M independently consenting data licensors × $50/year realized net licensing receipts **$1.5B/year**, with a **proposed 70% to people / 30% to operation** allocation: $1.05B dividend and $0.45B program offset. No authority to treat $50/user as market price; high privacy/research demand is speculative and commercialization may produce zero. Recovered source's 15% dividend floor is a *creative governance idea* for actual surplus, not a tax on all GDP or payment rails.
+- Fictional upside must count public savings only if program independently demonstrates reduced fraud, improved health/benefits access, higher earnings, avoided homelessness and administrative expenditure *net of* real delivery costs; no fabricated $T GDP multiplier.
+
+## V. Launch sequence and 100-year institutional horizon
+2032: 1–3 states and tribal opt-in governance pilots, accessible offline/cash enrollment, transparent evaluation, hardware refurbish-first procurement from circular foundries.
+2033–2036: 80M hypothetical national rollout if legislative funding and security reviews pass; opt-in companions, independent governance and no-data-sale alternative.
+2037–2045: interoperable data federation and payment rail maturity; Qverse civic relationship and labor-rights issues become plot themes, not flawless utopia.
+2046–2069: more capable devices, infrastructure and fusion-era computing in the **fictional** timeline, public rights safeguarded through constitutional law.
+2069–2200: international interest in citizen sovereignty; competing political systems test whether data autonomy truly improves well-being.
+Cumulative arithmetic: 80M users × $400/year × 100 years = **$3.2T operating costs** undiscounted constant real 2032 dollars; 80M × $650 × (100/4) = **$1.3T device refresh** assumed every four years; **$72B first-cohort initial purchase**, plus financing expense, ongoing replacement of lost eligibility/new entrants, compute upgrades, regulatory enforcement and disasters. Avoid double-counting capital outlays with debt principal payments. This is not NPV or a real budget.
+
+## VI. Interoperability with the industrial circular network
+Smartphones/laptops are designed for repair, reuse, battery-safe collection and material passports; 50 state foundries process obsolescent equipment and source qualified components. Avoid counting every recycled laptop again as new program GDP. Digital wallets can accept cash deposits through banks/agents; consented dataset compensation paid in dollars or 1:1 regulated redeemable digital instruments, with user choice. The Qverse companions' own Qverse rights prohibit total ownership or forced productivity missions.
+
+## VII. Dramatic conflict
+The older financial firms see data as property owned by the holder of the server. The new republic argues the individual carries rights over permissible use of information about them. The ensuing clash is not solved by a blockchain hash: consent, institutional power and genuine choices matter. A Qverse resident refuses an exclusive deal to monetize her human buddy's health history, though it would make the public ledger look more profitable.
+
+**Scene:**
+'What do you charge for a human being?' the Imperial accountant asks.
+'Nothing,' the buddy replies. 'The service is a right.'
+'Then what is the dividend?'
+'When someone earns money from information a person *chooses* to license, that person receives a share. The information does not become ours.'
+'And when they refuse?'
+The citizen closes the wallet screen. 'Then they still get to live their life.'
+
+## Open verification gates
+Actual eligibility counts by filing status and income, real device procurement, accessible broadband, affordability of compute, current federal/state health/financial/privacy legal rights, 30-year treasury borrowing cost, fraud losses, and data transaction markets have NOT been verified. No fictional legal enactment or GDP benefits are real-world claims.
