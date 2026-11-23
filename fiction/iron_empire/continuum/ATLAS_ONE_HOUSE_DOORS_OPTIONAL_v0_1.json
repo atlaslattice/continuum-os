@@ -1,0 +1,134 @@
+{
+  "schema": "atlas.iron-empire.house-doors/v1",
+  "releaseStatus": "SOURCE_DRAFT_NOT_CANON",
+  "basis": "Original Ariadne v0.7 House editorial labels; no private original source bytes",
+  "originalSourceSHA256": "07533cf7a6b6f567259962bf73efee9b22b47cbacb429499787800e07864e5a6",
+  "noWorkIngestion": true,
+  "privatePalaceRead": false,
+  "fictionalDeepTimeNotElapsedTime": true,
+  "scientificValidation": false,
+  "requiresExplicitOptIn": true,
+  "publisherDeployment": false,
+  "houses": [
+    {
+      "houseId": "H01",
+      "houseName": "Energy & Matter",
+      "fictionPrompt": "What if the Empire must account for energy conservation and excluded communities rather than simply declare limitless power?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H02",
+      "houseName": "Water & Food",
+      "fictionPrompt": "How does reciprocal food and water stewardship change the society's understanding of abundance?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H03",
+      "houseName": "Ecology, Environment & Infrastructure",
+      "fictionPrompt": "Which living landscapes regain agency when restoration is more valued than territorial expansion?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H04",
+      "houseName": "Health & Medicine",
+      "fictionPrompt": "How could mutual care change an ancient fictional biological dependency without erasing vulnerability?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H05",
+      "houseName": "Education & Knowledge",
+      "fictionPrompt": "What knowledge can communities teach one another without centralized assimilation?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H06",
+      "houseName": "Security",
+      "fictionPrompt": "Can a defensive society preserve dissent and restraint even when it has overwhelming capabilities?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H07",
+      "houseName": "Business, Finance & Governance",
+      "fictionPrompt": "Which financial fictions persist when every benefit must include real physical and social costs?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H08",
+      "houseName": "Humanities, Arts & Culture",
+      "fictionPrompt": "What art survives entirely outside state evaluation or military usefulness?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H09",
+      "houseName": "Philosophy, Psychology & Religion",
+      "fictionPrompt": "What does a civilization value when immortality does not provide certainty or innocence?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H10",
+      "houseName": "Indigenous Peoples, Society & Community",
+      "fictionPrompt": "How would sovereign first-peoples communities decline the Empire's universal blueprint?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H11",
+      "houseName": "Protection & Rights",
+      "fictionPrompt": "Which rights cannot be traded for aggregate prosperity, even in an idealized world?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    },
+    {
+      "houseId": "H12",
+      "houseName": "Space & Aerospace",
+      "fictionPrompt": "What protection is owed to extraterrestrial landscapes and nonhuman life before exploration?",
+      "mode": "IMAGINE_OR_PLAY_OPT_IN",
+      "status": "FICTIONAL_PROPOSAL_NOT_CANON",
+      "noWorkHarvest": true,
+      "automaticPosting": false,
+      "sourceEdition": "Ariadne v0.7"
+    }
+  ]
+}
